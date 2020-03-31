@@ -1,0 +1,2 @@
+include ':sample', ':mock_location'
+rootProject.name='MockLocation'
